@@ -1,4 +1,4 @@
-# New_York_Food_Inspection_Data_Analysis
+# New_York_Food_Inspection_Data_Engineering
 
 ## Summary
 This project encompasses the development of end-to-end ETL (Extract, Transform, Load) data pipelines for the New York Food Inspection dataset in Tab-Separated Values (.tsv) format, comprising a total of 242,408 records. 
