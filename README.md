@@ -5,17 +5,17 @@ This project encompasses the development of end-to-end ETL (Extract, Transform, 
 
 ## Tasks performed
 - Data Profiling and Analysis
-Tools Used: Alteryx
-Description: Understanding, organizing, and analyzing the New York Food Inspection dataset to identify important trends and patterns.
+-- Tools Used: Alteryx
+-- Description: Understanding, organizing, and analyzing the New York Food Inspection dataset to identify important trends and patterns.
 
 - Data Modeling
-Tools Used: ER/Studio
-Description: Creating a structured data model comprising 9 dimensions and 2 facts to effectively represent the dataset. Generated DDL scripts to implement the model in databases.
+-- Tools Used: ER/Studio
+-- Description: Creating a structured data model comprising 9 dimensions and 2 facts to effectively represent the dataset. Generated DDL scripts to implement the model in databases.
 
 - Data Pipeline Creation
-Tools Used: Talend
-Description: Constructed an end-to-end data pipeline to manage over 200,000 records. This pipeline facilitated data staging, cleaning, transformation, and loading into MySQL and Azure PostgreSQL databases.
+-- Tools Used: Talend
+-- Description: Constructed an end-to-end data pipeline to manage over 200,000 records. This pipeline facilitated data staging, cleaning, transformation, and loading into MySQL and Azure PostgreSQL databases.
 
 - Data Validation and Visualization
-Tools Used: SQL, Tableau, Power BI
-Description: Validated data integrity using SQL queries. Developed visualizations using Tableau and Power BI to showcase insights on inspection trends, success rates, and evolving outcomes over time.
+-- Tools Used: SQL, Tableau, Power BI
+-- Description: Validated data integrity using SQL queries. Developed visualizations using Tableau and Power BI to showcase insights on inspection trends, success rates, and evolving outcomes over time.
